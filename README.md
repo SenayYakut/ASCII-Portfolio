@@ -11,8 +11,10 @@ In this project, you’ll use Git backtracking commands to undo mistakes made to
 
 Install the project locally
 ```bash
- 
+git clone https://github.com/SenayYakut/ASCII-Portfolio.git
 
+```
+ 
 ## Usage
 
 ```python
